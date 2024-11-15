@@ -114,8 +114,8 @@ private void pembaruankalender() {
 | :-: | --------------   |   :-----:    |
 |  1  | Komponen GUI     |    10    |
 |  2  | Logika Program   |    20    |
-|  3  | Kesesuaian UI    |    20    |
-|  4  | Constructor      |    20    |
+|  3  | EVENT   |    20    |
+|  4  | Kesesuaian UI      |    20    |
 |  5  | Memenuhi Variasi |    30    |
 |     | TOTAL        | 100 |
 
